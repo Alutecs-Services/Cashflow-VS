@@ -64,10 +64,11 @@ sistema.
 
 ---
 
-Copyright (c) 2023-2026 LISANDRO ANTONIO NUNEZ MARTE — nombre comercial ALUTECS SERVICES.
-Todos los derechos reservados.
+Copyright (c) 2023-2026 ALUTECS SERVICES. Todos los derechos reservados.
 
 CashFlow Manager es software propietario. Este repositorio contiene únicamente los archivos
 de instalación publicados; no incluye el código fuente, que es confidencial. Descargar la
 aplicación no concede ningún derecho sobre ella más allá de la licencia de uso contratada.
 
+La identificación completa del titular y las condiciones de uso figuran en el contrato de
+licencia que se muestra durante la instalación y dentro de la aplicación.

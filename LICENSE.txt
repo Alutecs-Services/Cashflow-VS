@@ -1,0 +1,32 @@
+CashFlow Manager
+Copyright (c) 2023-2026 ALUTECS SERVICES. Todos los derechos reservados.
+
+SOFTWARE PROPIETARIO
+
+CashFlow Manager no es software libre ni de codigo abierto. Este repositorio
+contiene unicamente los archivos de instalacion publicados; no incluye el
+codigo fuente, que es confidencial y no se distribuye.
+
+Queda prohibido, sin autorizacion previa y por escrito del titular:
+
+  a) redistribuir, revender, alquilar o ceder los archivos de instalacion;
+  b) modificarlos, descompilarlos, desensamblarlos o aplicarles ingenieria
+     inversa;
+  c) eludir, desactivar o alterar los mecanismos de activacion y verificacion
+     de la licencia;
+  d) usar el nombre CashFlow Manager o el nombre comercial ALUTECS SERVICES
+     para identificar productos o servicios de terceros.
+
+Descargar la aplicacion no concede ningun derecho sobre ella. El uso esta
+sujeto al Contrato de Licencia de Usuario Final, que se muestra durante la
+instalacion y puede consultarse dentro de la aplicacion, en Configuracion >
+Acerca de. Ese contrato identifica al titular y fija las condiciones de uso,
+soporte y terminacion.
+
+Los componentes de terceros incluidos en la aplicacion se rigen por sus
+propias licencias, reconocidas en el documento de avisos de terceros que
+acompana al programa.
+
+Ley aplicable: Republica Dominicana.
+
+Contacto: soporte@alutecs.com
